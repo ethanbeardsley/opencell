@@ -8,12 +8,12 @@ pages:
     - Connectors: '1-functional-overview/4-connector-overview.md' 
 - Technical overview: '2-technical-overview/1-technical-overview.md'
 - User guide:
-    - 'Marketing manager': '3-user-guide/1-marketing-manager/1-marketing-manager.md'
-    - 'Customer care': '3-user-guide/2-customer-care/1-customer-care.md'
+    - Marketing manager: '3-user-guide/1-marketing-manager/1-marketing-manager.md'
+    - Customer care: '3-user-guide/2-customer-care/1-customer-care.md'
 - Installation guide: '4-installation-guide/1-installation-guide.md'
-    - 'System requirements': '4-installation-guide/2-system-requirements.md'
-    - 'Install using Docker': '4-installation-guide/3-deploy-docker.md'
-    - 'Install from scratch': '4-installation-guide/4-deploy-from-scratch.md'
+    - System requirements: '4-installation-guide/2-system-requirements.md'
+    - Install using Docker: '4-installation-guide/3-deploy-docker.md'
+    - Install from scratch: '4-installation-guide/4-deploy-from-scratch.md'
   
  
 
