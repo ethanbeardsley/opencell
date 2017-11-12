@@ -6,6 +6,8 @@ pages:
 - Technical overview: 'technical-overview/technical-overview.md'
 - Quick start tutorials:
     - Marketing manager: 'quick-start-tutorials/quick-start-marketing-manager.md'
+    - Customer care: 'quick-start-tutorials/quick-start-customer-care.md'
+    - Self care: 'quick-start-tutorials/quick-start-customer-care.md'
 - User guide:
     - 'Marketing manager': 'marketing-manager/marketing-manager.md'
     - 'Customer care': 'customer-care/customer-care.md'
@@ -13,3 +15,7 @@ pages:
     - 'System requirements': 'installation-guide/system-requirements.md'
     - 'Install using Docker': 'installation-guide/deploy-docker.md'
     - 'Install from scratch' : 'installation-guide/deploy-from-scratch.md'
+  
+ 
+
+
