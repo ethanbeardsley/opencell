@@ -2,19 +2,18 @@ site_name: opencell
 theme: readthedocs
 pages:
 - Home: 'index.md'
-- Functional overview: 'functional-overview/functional-overview.md'
-- Technical overview: 'technical-overview/technical-overview.md'
-- Quick start tutorials:
-    - Marketing manager: 'quick-start-tutorials/quick-start-marketing-manager.md'
-    - Customer care: 'quick-start-tutorials/quick-start-customer-care.md'
-    - Self care: 'quick-start-tutorials/quick-start-self-care.md'
+- Functional overview: 'functional-overview/1-functional-scope.md'
+    - Core : 'functional-overview/2-core-functionality.md'
+    - Portal : 'functional-overview/3-portal-overview.md'
+    - Connectors : 'functional-overview/4-connector-overview.md' 
+- Technical overview: 'technical-overview/1-technical-overview.md'
 - User guide:
-    - 'Marketing manager': 'marketing-manager/marketing-manager.md'
-    - 'Customer care': 'customer-care/customer-care.md'
-- Installation guide:
-    - 'System requirements': 'installation-guide/system-requirements.md'
-    - 'Install using Docker': 'installation-guide/deploy-docker.md'
-    - 'Install from scratch' : 'installation-guide/deploy-from-scratch.md'
+    - 'Marketing manager': 'marketing-manager/1-marketing-manager.md'
+    - 'Customer care': 'customer-care/1-customer-care.md'
+- Installation guide: 'installation-guide/1-installation-guide.md'
+    - 'System requirements': 'installation-guide/2-system-requirements.md'
+    - 'Install using Docker': 'installation-guide/3-deploy-docker.md'
+    - 'Install from scratch' : 'installation-guide/4-deploy-from-scratch.md'
   
  
 
