@@ -6,13 +6,21 @@ The marketing UI provides sales and marketing teams with the ability to create a
 
 ## Video
 
-The video below gives you a great view of the marketing manager's capabilities. 
+The video below gives you a great view of the marketing manager's capabilities.  
 
-[https://www.youtube.com/watch?v=WKM5olw46Fk]()
+[![marketing-portal-video](marketing-portal.png)](https://www.youtube.com/watch?v=WKM5olw46Fk) 
 
 ## Step-by-step
 
-To complete.
+1. Login into the Marketing portal with your login and password.
+2. Click on offers > catalog list.
+3. Click on create new offer and choose Opencell classic template.
+4. Give a name and code to the offer and set status to active.
+5. Select billing model and input prices.
+6. Choose one-shot fee, make it mandatory and set price to $100.
+7. Choose recurring flat fee, make it mandatory and set price to $10.
+8. Click on Save.
+1. Visualize your offer on the Catalog list
 
 # Customer care portal
 
@@ -31,8 +39,7 @@ The **customer care portal** UI provides your sales, customer service and contra
 
 The video below gives you a great view of our customer service capabilities. 
 
-[https://www.youtube.com/watch?v=WKM5olw46Fk]()
-
+[![customer-care-portal-video](customer-care-portal.png)](https://www.youtube.com/watch?v=WKM5olw46Fk) 
 
 ## Step-by-step tutorial
 
@@ -49,8 +56,8 @@ The selfcare UI helps you enable your B2C and B2B clients to take care of themse
 
 The video below gives you a great view of our self-care capabilities. 
 
-[https://www.youtube.com/watch?v=WKM5olw46Fk]()
+[![self-care-portal-video](self-care-portal.png)](https://www.youtube.com/watch?v=WKM5olw46Fk) 
 
 ## Step-by-step
 
-Lorem ipsum.
+To complete.
