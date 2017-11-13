@@ -2,7 +2,8 @@ site_name: opencell
 theme: readthedocs
 pages:
 - Home: 'index.md'
-- Functional overview: '1-functional-overview/1-functional-scope.md'
+- Functional overview: 
+    - Introduction: '1-functional-overview/1-functional-scope.md'
     - Core: '1-functional-overview/2-core-functionality.md'
     - Portal: '1-functional-overview/3-portal-overview.md'
     - Connectors: '1-functional-overview/4-connector-overview.md' 
@@ -10,7 +11,8 @@ pages:
 - User guide:
     - Marketing manager: '3-user-guide/1-marketing-manager/1-marketing-manager.md'
     - Customer care: '3-user-guide/2-customer-care/1-customer-care.md'
-- Installation guide: '4-installation-guide/1-installation-guide.md'
+- Installation guide: 
+    - Introduction: '4-installation-guide/1-installation-guide.md'
     - System requirements: '4-installation-guide/2-system-requirements.md'
     - Install using Docker: '4-installation-guide/3-deploy-docker.md'
     - Install from scratch: '4-installation-guide/4-deploy-from-scratch.md'
